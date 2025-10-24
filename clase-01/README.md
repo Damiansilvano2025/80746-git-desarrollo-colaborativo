@@ -42,5 +42,15 @@ git commit -m "mensaje descriptivo"
 git diff # compara el archivo que está en WD con el archivo que está en LR
 ```
 
+## Ver el contenido del commit 
 
+```sh
+git show <hash>
+git show 728f4c2
+```
 
+## Ver de manera corta el status de los archivos y en que área están"
+
+```sh
+git status --short
+```
