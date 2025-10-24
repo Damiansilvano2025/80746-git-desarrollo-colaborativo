@@ -29,4 +29,18 @@ git status
 ```sh
 git add .
 ```
+## Para pasar de SA a el LR
+
+```sh
+git commit # Editor de texto para colocar el mensaje
+git commit -m "mensaje descriptivo"
+```
+
+## Diferencia entre el archivo/s que están Working Directory contra el Local Repo
+
+```sh
+git diff # compara el archivo que está en WD con el archivo que está en LR
+```
+
+
 
