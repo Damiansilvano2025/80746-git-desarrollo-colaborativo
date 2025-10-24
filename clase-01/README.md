@@ -62,3 +62,9 @@ git log --online #forma corta
 git log # forma larga (detallada)
 git log --online -<cantidad de commits> # ver una cantidad de commit especifica
 ```
+
+## Subir el repo local al remoto
+
+```sh
+git push
+```
