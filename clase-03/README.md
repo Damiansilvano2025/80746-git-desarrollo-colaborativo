@@ -23,3 +23,9 @@ git pull # Me traigo los cambios
 git pull # <---- git fetch + git pull
 ```
 
+## Dividir lo que voy a commitear en varios commits
+
+```sh
+git add --pathc
+# Apretar "e" -> Editar manual lo que quiero guardar en el SA
+```
