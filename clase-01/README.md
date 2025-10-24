@@ -54,3 +54,11 @@ git show 728f4c2
 ```sh
 git status --short
 ```
+
+## Ver timeline de commits
+
+```sh
+git log --online #forma corta
+git log # forma larga (detallada)
+git log --online -<cantidad de commits> # ver una cantidad de commit especifica
+```
