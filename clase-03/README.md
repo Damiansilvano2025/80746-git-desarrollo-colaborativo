@@ -29,3 +29,14 @@ git pull # <---- git fetch + git pull
 git add --pathc
 # Apretar "e" -> Editar manual lo que quiero guardar en el SA
 ```
+## Referencias estaticas y referencias dinamicas
+
+* Referencias estaticas --> ramas, tags
+*Referencias dinamicas --> HEAD
+
+![referencias](_ref/refer.png)
+
+
+
+
+
