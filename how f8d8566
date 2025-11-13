@@ -1,0 +1,17 @@
+[33m0f4aa68[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Empezamos con la clase 4
+[33mf8d8566[m Agregamos a la docu, el trabajo con los .gitkeep y .gitignore
+[33m8d1eac9[m Agrego como funcionan las referencias en git
+[33m49dae86[m Agregamos como dividir lo que quiero guardar en el commit
+[33m39e19d6[m Actualizar el local con el remoto
+[33m6e7a62b[m Agrego a la docu como subir los cambios al remoto
+[33m11875cb[m Agrego a la docu como ver la ayuda de los comandos
+[33m54fddab[m Agrego el README.md del proyecto
+[33mbea468b[m Empiezo con la clase 03
+[33mcdb57b4[m Agregamos a la docu como subir el repositorio local al remoto
+[33mb96c66d[m Extraigo del README.md de la clase 01 al contenido de la clase 02
+[33md2ce4d9[m Se agrega el mendaje para hacer la subida al remoto
+[33m06ed187[m Ver el listado de commits
+[33m10a3c2c[m Comando para ver el contenido del commit y comando para comparar ST contra LR
+[33mcb54dc6[m Comando para pasar del SA al LR y comando para ver las diff
+[33m728f4c2[m Comando para saber el estado de archivos y para pasar de WD a SA
+[33m28c926e[m Intro a git, áreas y estados archivos
