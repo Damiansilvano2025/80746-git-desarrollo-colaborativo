@@ -48,3 +48,9 @@ git switch -
 ```sh
 git branch -av
 ```
+
+## Crear una rama y moverme a esa rama
+
+```sh
+git wsitch -c feature/fusiones
+```
