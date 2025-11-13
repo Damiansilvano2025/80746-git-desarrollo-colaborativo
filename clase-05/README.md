@@ -39,3 +39,24 @@ git stash list
 git stash shwo -p <stash>
 ```
 
+## Recuperar un stash
+
+```sh
+git stash pop # reupera el ultimo stash creado. Si hay conflicto no lo borra stash.
+git stash apply <numero-stash>
+git stash apply 1 # stash@{1}
+```
+
+## Borrar un stash
+
+```sh
+git stash frop # borra el último stash (el de arriba) stash
+git stash drop <numero-stash> #borra el stash que le paso
+```
+
+## Crear un branch a partir de un stash 
+
+```sh
+git stash branch <nombre-rama>
+git stash branch rama-stash
+```
