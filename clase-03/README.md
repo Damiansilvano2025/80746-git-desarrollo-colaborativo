@@ -36,6 +36,20 @@ git add --pathc
 
 ![referencias](_ref/refer.png)
 
+## .gitignore
+Me va a permitir ignorar archivos. No guardar en el repositorio el archivo que coloque dentro del .gitignore
+
+```sh
+.gitignore
+```
+
+##  .gitkeep
+GIT no versiona carpeta. Lo que hace es permitirme guardar una carpeta vacia dentro del repositorio 
+
+```sh
+.gitkeep
+```
+
 
 
 

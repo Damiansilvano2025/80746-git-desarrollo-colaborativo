@@ -1,0 +1,5 @@
+node_modules/ 
+vendor/
+disco.tmp/
+info.log/
+memoria.tmp/
