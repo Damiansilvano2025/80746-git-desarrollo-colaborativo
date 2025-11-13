@@ -33,3 +33,9 @@ git reset -hard
 git stash list
 ```
 
+## Ver el contenido el stash 
+
+```sh
+git stash shwo -p <stash>
+```
+
